@@ -1,0 +1,7 @@
+*.out
+.ipynb_checkpoints/
+*.fits
+*.bak
+notebooks
+*.slurm
+*~
