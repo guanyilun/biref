@@ -1,0 +1,7 @@
+* biref
+Utility library
+- =absrot.py=: add absolute rotations to IQU maps
+- =relrot.py=: add relative rotations to IQU maps
+- =generate_alpha.py=: generate random birefringence rotation maps
+- =generate_sim.py=: generate sims for each array and freq
+- =relrot_alpha=: generate random relative rotation map based on hits map
